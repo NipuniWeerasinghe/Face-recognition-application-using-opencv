@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognitonAndDetection", "FaceRecognitonAndDetection\FaceRecognitonAndDetection.csproj", "{DAEC86AA-D1F1-4851-B21B-B9115B715E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEC86AA-D1F1-4851-B21B-B9115B715E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEC86AA-D1F1-4851-B21B-B9115B715E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEC86AA-D1F1-4851-B21B-B9115B715E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEC86AA-D1F1-4851-B21B-B9115B715E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8433A218-4C16-440A-9285-E81AA0D866ED}
+	EndGlobalSection
+EndGlobal

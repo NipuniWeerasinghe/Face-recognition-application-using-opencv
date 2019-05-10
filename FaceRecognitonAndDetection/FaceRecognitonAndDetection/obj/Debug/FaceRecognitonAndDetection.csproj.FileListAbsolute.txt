@@ -1,0 +1,14 @@
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\bin\Debug\FaceRecognitonAndDetection.exe.config
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\bin\Debug\FaceRecognitonAndDetection.exe
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\bin\Debug\FaceRecognitonAndDetection.pdb
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\bin\Debug\Emgu.CV.xml
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\bin\Debug\Emgu.CV.UI.xml
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\bin\Debug\Emgu.Util.xml
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.csprojAssemblyReference.cache
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.Form1.resources
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.Properties.Resources.resources
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.csproj.GenerateResource.cache
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.csproj.CoreCompileInputs.cache
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.csproj.CopyComplete
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.exe
+C:\face recognition\FaceRecognitonAndDetection\FaceRecognitonAndDetection\obj\Debug\FaceRecognitonAndDetection.pdb
